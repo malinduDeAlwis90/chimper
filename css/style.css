@@ -1700,3 +1700,20 @@ h1, h2, h3, h4, h5,
 
 .testimonial-wrap .owl-nav {
   display: none; }
+
+.page-header h2 {
+  margin-bottom: 40px!important;
+}
+
+p.larger {
+  color: #666;
+  font-size: 18px;
+  line-height: 30px;
+  margin: 0 0 25px 0;
+}
+
+@media (max-width: 375px){
+  .hero-image{
+    display: none;
+  }
+}
